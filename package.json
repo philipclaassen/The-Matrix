@@ -1,0 +1,24 @@
+{
+  "name": "the-matrix",
+  "version": "1.0.0",
+  "description": "The Matrix project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipclaassen/The-Matrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/philipclaassen/The-Matrix/issues"
+  },
+  "homepage": "https://github.com/philipclaassen/The-Matrix#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
